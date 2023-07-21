@@ -10,6 +10,7 @@ First of all, Hikuru solves the problem of time. Everyone is looking for a place
 
 You will no longer need to google and open many websites - everything you need will be inside our ecosystem.
 
+
 ## Our ecosystem includes tools such as: 
 
 1. Real-time prices of cryptocurrencies and NFTs.
@@ -29,11 +30,13 @@ Read more about the projects included in the ecosystem:
 
 4. **News Portal** - A news portal that will publish the latest news of the cryptocurrency market.
 
+
 ## Coming soon
 
 5. **NFT Marketplace** (coming soon on the Aleo blockchain).
 
 6. **Hikuru Wallet** - decentralised Web3 wallet (coming soon on the Aleo blockchain).
+
 
 ## Additional tools:
 
