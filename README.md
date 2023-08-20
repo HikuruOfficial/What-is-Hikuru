@@ -32,10 +32,11 @@ Read more about the projects included in the ecosystem:
 
 
 ## Coming soon
+5. **Social Hub** - which will allow people to communicate within our ecosystem and tokenise a person's social networks.
 
-5. **NFT Marketplace** (coming soon on the Aleo blockchain).
+6. **NFT Marketplace** (coming soon on the Aleo blockchain).
 
-6. **Hikuru Wallet** - decentralised Web3 wallet (coming soon on the Aleo blockchain).
+7. **Hikuru Wallet** - decentralised Web3 wallet (coming soon on the Aleo blockchain).
 
 
 ## Additional tools:
